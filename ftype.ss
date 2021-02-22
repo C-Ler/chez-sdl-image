@@ -1,6 +1,6 @@
 ;;;; -*- mode: Scheme; -*-
 
-(library (sdl-image ftype)
+(library (chez-sdl-image ftype)
   (export img-init
 	  img-load
 	  img-quit
